@@ -1,0 +1,1 @@
+coffee --watch --join siggichart.js --compile src
